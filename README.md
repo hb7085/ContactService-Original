@@ -1,5 +1,5 @@
 ## This Project contains code that I created in CS-320: Software Testing, Automation, and Quality Assurance.
-### This is the original project without enhancements:
+### Original Project Files:
 [Contact.java](https://github.com/hb7085/ContactService-Original/blob/main/ContactServiceCapstoneOriginal/src/contactapp/Contact.java)
 
 [ContactService.java](https://github.com/hb7085/ContactService-Original/blob/main/ContactServiceCapstoneOriginal/src/contactapp/ContactService.java)
